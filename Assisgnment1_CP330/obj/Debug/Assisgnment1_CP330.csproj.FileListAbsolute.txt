@@ -1,0 +1,8 @@
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\obj\Debug\Assisgnment1_CP330.csprojResolveAssemblyReference.cache
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\obj\Debug\Assisgnment1_CP330.Form1.resources
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\obj\Debug\Assisgnment1_CP330.Properties.Resources.resources
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\obj\Debug\Assisgnment1_CP330.csproj.GenerateResource.Cache
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\bin\Debug\Assisgnment1_CP330.exe
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\bin\Debug\Assisgnment1_CP330.pdb
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\obj\Debug\Assisgnment1_CP330.exe
+C:\Users\Paige Blais\Desktop\Assisgnment1_CP330\Assisgnment1_CP330\obj\Debug\Assisgnment1_CP330.pdb
